@@ -3,8 +3,8 @@ import requests
 import telebot
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 
-BOT_TOKEN = "8628792265:AAHXHHFTPRQlpW01BWW4F1FctQfzvGivj3I"
-OWNER_ID = 8914818694
+BOT_TOKEN = "your BOT TOKEN"
+OWNER_ID = OWNER number id
 
 SUB_LINKS = [
     "https://raw.githubusercontent.com/ThomasJasperthecat/sub/main/sublist1.txt",
